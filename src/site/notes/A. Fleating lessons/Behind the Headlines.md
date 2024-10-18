@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/A. Fleating lessons/Behind the Headlines/"}
 ---
 
+# Behind the Headlines
+
 **Instructions:**
 1. Select Two News Articles:
     
