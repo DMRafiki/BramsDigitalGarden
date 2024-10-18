@@ -5,7 +5,7 @@
 # Sources of Information
 
 Today:
-- Interactive presentation in Learnbeat about sources of information
+- Interactive presentation in [Learnbeat](https://inloggen.learnbeat.nl) about sources of information
 - Discussion on points of view
 - Assignment: [[A. Fleating lessons/Behind the Headlines\|Behind the Headlines]]
 
